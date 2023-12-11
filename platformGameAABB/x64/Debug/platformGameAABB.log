@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Dev\platformGameAABB\Entity.h(16,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Dev\platformGameAABB\Entity.h(17,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Dev\platformGameAABB\Entity.h(29,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  platformGameAABB.vcxproj -> C:\Dev\platformGameAABB\x64\Debug\platformGameAABB.exe
